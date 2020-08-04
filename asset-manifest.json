@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robodox/static/css/main.632a964f.chunk.css",
+    "main.js": "/robodox/static/js/main.2e2c5769.chunk.js",
+    "main.js.map": "/robodox/static/js/main.2e2c5769.chunk.js.map",
+    "runtime-main.js": "/robodox/static/js/runtime-main.18518254.js",
+    "runtime-main.js.map": "/robodox/static/js/runtime-main.18518254.js.map",
+    "static/js/2.31182915.chunk.js": "/robodox/static/js/2.31182915.chunk.js",
+    "static/js/2.31182915.chunk.js.map": "/robodox/static/js/2.31182915.chunk.js.map",
+    "index.html": "/robodox/index.html",
+    "precache-manifest.e514f01bf65ddb4e764711f61752eda1.js": "/robodox/precache-manifest.e514f01bf65ddb4e764711f61752eda1.js",
+    "service-worker.js": "/robodox/service-worker.js",
+    "static/css/main.632a964f.chunk.css.map": "/robodox/static/css/main.632a964f.chunk.css.map",
+    "static/js/2.31182915.chunk.js.LICENSE.txt": "/robodox/static/js/2.31182915.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18518254.js",
+    "static/js/2.31182915.chunk.js",
+    "static/css/main.632a964f.chunk.css",
+    "static/js/main.2e2c5769.chunk.js"
+  ]
+}
